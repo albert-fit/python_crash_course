@@ -1,0 +1,7 @@
+In Python you can create and run functions that take in arguments and return values.
+
+In Python you can modify strings. 
+
+In Python you can import and export modules. 
+
+In Python you can perform mathematical operation. 
